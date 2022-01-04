@@ -2,7 +2,7 @@
 
 This project was made loosely by following a tutorial to help me learn about Web Dev  
 Made with HTML, CSS, and plain JavaScript  
-Published at: 
+Published at: https://noumanamalik.github.io/Sketch/
 
 ### Features 
 - Allows the user to draw inside the canvas
